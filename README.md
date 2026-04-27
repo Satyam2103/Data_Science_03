@@ -157,8 +157,7 @@ Global-Terrorism-EDA/
 
 ## 👤 Author
 
-**NAMAN RANA**
-- GitHub: [@namannnrana](https://github.com/namannnrana)
+**SATYAM SHARMA**
 
 ---
 
